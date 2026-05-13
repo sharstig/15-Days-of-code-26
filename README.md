@@ -2,17 +2,11 @@
 
 This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
 
-## 📌 About the Challenge
-- Duration: **2 phases of 15 Days**
-- Goal: Code every day and build consistency  
-- Task: Fork this repository, and update your progress here!  
+## Day-1
 
-## ✅ How to Participate
-1. **Fork** this repository.  
-2. **Edit this README** file in your fork.  
-3. Document your progress daily:  
-   - Add a short note on what you did  
-   - Attach screenshots or  
-   - Add links to your code submissions/projects  
+1. Learned Git & Github - [link](https://youtu.be/r8QQOAicu8Y?si=7GpxADK3JHTAEqbt)</br>
 
-4. Keep pushing your changes every day!  
+2. CodeChef Contest Div4 solved 3 questions</br>
+   Q.1 code - [link](https://www.codechef.com/viewsolution/1276797955)</br>
+   Q.2 code - [link](https://www.codechef.com/viewsolution/1276810778)</br>
+   Q.3 code - [link](https://www.codechef.com/viewsolution/1276881695)</br>
