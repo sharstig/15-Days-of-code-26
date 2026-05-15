@@ -20,4 +20,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2. CodeChef -</br>
    Q.1 code - [link](https://www.codechef.com/viewsolution/1277359592)</br> 
    Q.2 code - [link](https://www.codechef.com/viewsolution/1277353737)</br>
-   
+
+## Day-3
+
+1. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/merge-sorted-array/submissions/2004006393)</br>
+   Q.2 code - [link](https://leetcode.com/problems/remove-element/submissions/2003909760)</br>
+
+2. CodeChef -</br>
+   Q.1 code - [link](https://www.codechef.com/viewsolution/1277736410)</br>
