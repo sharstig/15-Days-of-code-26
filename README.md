@@ -29,3 +29,17 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 2. CodeChef -</br>
    Q.1 code - [link](https://www.codechef.com/viewsolution/1277736410)</br>
+
+## Day-4
+
+1. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2004607289)</br>
+   Q.2 code - [link](https://leetcode.com/problems/maximum-gap/submissions/2004603944)</br>
+   Q.3 code - [link](https://leetcode.com/problems/sort-colors/submissions/2004598578)</br>
+   Q.4 code - [link](https://leetcode.com/problems/third-maximum-number/submissions/2004592388)</br>
+   Q.5 code - [link](https://leetcode.com/problems/find-the-difference/submissions/2004424467)</br>
+   Q.6 code - [link](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/2004405989)</br>
+   Q.7 code - [link](https://leetcode.com/problems/intersection-of-two-arrays/submissions/2004398849)</br>
+   Q.8 code - [link](https://leetcode.com/problems/missing-number/submissions/2004386156)</br>
+   Q.9 code - [link](https://leetcode.com/problems/valid-anagram/submissions/2004372864)</br>
+   Q.10 code - [link](https://leetcode.com/problems/majority-element/submissions/2004360149)</br>
