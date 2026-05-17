@@ -43,3 +43,15 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    Q.8 code - [link](https://leetcode.com/problems/missing-number/submissions/2004386156)</br>
    Q.9 code - [link](https://leetcode.com/problems/valid-anagram/submissions/2004372864)</br>
    Q.10 code - [link](https://leetcode.com/problems/majority-element/submissions/2004360149)</br>
+
+## Day-5
+
+1. Studied Merge Sort - [link](https://youtu.be/ogjf7ORKfd8?si=_1SazQrcfwBuXPjT)</br>
+
+2. Studied Binary Search, lower_bound and upper_bound - [link](https://youtu.be/MHf6awe89xw?si=oORiLV7C3LPBGPMz)</br>
+                                                      - [link](https://youtu.be/6zhGS79oQ4k?si=ePT0DrVPBswyxsXt)</br>
+
+3. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/search-insert-position/submissions/2005623451)</br>
+   Q.2 code - [link](https://leetcode.com/problems/binary-search/submissions/2005419928)</br>
+
