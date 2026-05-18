@@ -56,3 +56,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    Q.1 code - [link](https://leetcode.com/problems/search-insert-position/submissions/2005623451)</br>
    Q.2 code - [link](https://leetcode.com/problems/binary-search/submissions/2005419928)</br>
 
+## Day-6
+
+1. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/find-peak-element/submissions/2006459241)</br>
+   Q.2 code - [link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2006447732)</br>
+
