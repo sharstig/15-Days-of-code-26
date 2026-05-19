@@ -62,3 +62,6 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    Q.1 code - [link](https://leetcode.com/problems/find-peak-element/submissions/2006459241)</br>
    Q.2 code - [link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2006447732)</br>
 
+## Day-7
+
+1. Studied C++ STL - [link](https://youtu.be/RRVYpIET_RU?si=Q6tKhOGueAy34nxj)
