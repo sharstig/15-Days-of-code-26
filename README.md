@@ -65,3 +65,8 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 ## Day-7
 
 1. Studied C++ STL - [link](https://youtu.be/RRVYpIET_RU?si=Q6tKhOGueAy34nxj)
+
+## Day-8
+
+1. Studied Hashing - [link](https://youtu.be/KEs5UyBJ39g?si=4y6lrief9Q5XH0BI)
+   
