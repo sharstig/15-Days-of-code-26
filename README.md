@@ -64,9 +64,16 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 ## Day-7
 
-1. Studied C++ STL - [link](https://youtu.be/RRVYpIET_RU?si=Q6tKhOGueAy34nxj)
+1. Studied C++ STL - [link](https://youtu.be/RRVYpIET_RU?si=Q6tKhOGueAy34nxj)</br>
 
 ## Day-8
 
-1. Studied Hashing - [link](https://youtu.be/KEs5UyBJ39g?si=4y6lrief9Q5XH0BI)
+1. Studied Hashing - [link](https://youtu.be/KEs5UyBJ39g?si=4y6lrief9Q5XH0BI)</br>
+
+## Day-9
+
+1. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2009203644)</br>
+   Q.2 code - [link](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2009192919)</br>
+   Q.3 code - [link](https://leetcode.com/problems/majority-element-ii/submissions/2008889307)</br>
    
