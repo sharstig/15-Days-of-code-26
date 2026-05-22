@@ -76,4 +76,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    Q.1 code - [link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2009203644)</br>
    Q.2 code - [link](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2009192919)</br>
    Q.3 code - [link](https://leetcode.com/problems/majority-element-ii/submissions/2008889307)</br>
-   
+
+## Day-10
+
+1. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/2009849859)</br>
+   Q.2 code - [link](https://leetcode.com/problems/max-consecutive-ones/submissions/2009577858)</br>
+   Q.3 code - [link](https://leetcode.com/problems/move-zeroes/submissions/2009565927)</br>
+   Q.4 code - [link](https://leetcode.com/problems/plus-one/submissions/2009537826)</br>
+   Q.5 code - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2009514300)</br>
