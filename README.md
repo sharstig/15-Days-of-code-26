@@ -85,3 +85,15 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    Q.3 code - [link](https://leetcode.com/problems/move-zeroes/submissions/2009565927)</br>
    Q.4 code - [link](https://leetcode.com/problems/plus-one/submissions/2009537826)</br>
    Q.5 code - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2009514300)</br>
+
+## Day-11
+
+1. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2010346631)</br>
+   Q.2 code - [link](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2010357020)</br>
+
+2. CP-31 -</br>
+   Q.1 code - [link](https://codeforces.com/problemset/submission/1899/375746629)</br>
+   Q.2 code - [link](https://codeforces.com/problemset/submission/1896/375748743)</br>
+   Q.3 code - [link](https://codeforces.com/problemset/submission/1877/375752128)</br>
+   Q.4 code - [link](https://codeforces.com/problemset/submission/1873/375754439)</br>
