@@ -97,3 +97,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    Q.2 code - [link](https://codeforces.com/problemset/submission/1896/375748743)</br>
    Q.3 code - [link](https://codeforces.com/problemset/submission/1877/375752128)</br>
    Q.4 code - [link](https://codeforces.com/problemset/submission/1873/375754439)</br>
+
+## Day-12
+
+1. Studied Quick Sort - [link](https://youtu.be/WIrA4YexLRQ?si=pDgVhFZrByC40HnY)</br>
+
+2. CP-31 -</br>
+   Q.1 code - [link](https://codeforces.com/problemset/submission/1866/375918260)</br>
+   Q.2 code - [link](https://codeforces.com/problemset/submission/1829/3759201791)</br>
