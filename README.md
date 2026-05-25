@@ -105,3 +105,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2. CP-31 -</br>
    Q.1 code - [link](https://codeforces.com/problemset/submission/1866/375918260)</br>
    Q.2 code - [link](https://codeforces.com/problemset/submission/1829/3759201791)</br>
+
+## Day-13
+
+1. Studied Prefix Sum - [link](https://youtu.be/nZe7P674xZo?si=tji22MMnOgntnrQX)</br>
+
+2. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/pascals-triangle-ii/submissions/2012440371)</br>
+   Q.2 code - [link](https://leetcode.com/problems/pascals-triangle/submissions/2012448719)</br>
