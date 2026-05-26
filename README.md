@@ -113,3 +113,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2. LeetCode -</br>
    Q.1 code - [link](https://leetcode.com/problems/pascals-triangle-ii/submissions/2012440371)</br>
    Q.2 code - [link](https://leetcode.com/problems/pascals-triangle/submissions/2012448719)</br>
+
+## Day-14
+
+1. LeetCode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/find-pivot-index/submissions/2013635772)</br>
+   Q.2 code - [link](https://leetcode.com/problems/find-the-highest-altitude/submissions/2013654459)</br>
+   Q.3 code - [link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/submissions/2013717711)</br>
+   
