@@ -21,3 +21,11 @@
 
 1. Leetcode -</br>
    Q.1 [hard] code - [link](https://leetcode.com/problems/minimum-window-substring/submissions/2037904402)  [Tried but getting TLE. TBD]</br>
+
+## Day-4
+
+1. Studied SJF CPU Scheduling - [link](https://youtu.be/3-QbX1iDbXs?si=Z4TSKgrhptKStN5W)</br>
+
+2. Leetcode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/lemonade-change/submissions/2038968394)  [TC- O(n), SC- O(1)]</br>
+   Q.2 code - [link](https://leetcode.com/problems/assign-cookies/submissions/2038888363)  [TC- O(nlogn+mlogm), SC- O(1)]</br>
