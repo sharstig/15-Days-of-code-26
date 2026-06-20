@@ -29,3 +29,10 @@
 2. Leetcode -</br>
    Q.1 code - [link](https://leetcode.com/problems/lemonade-change/submissions/2038968394)  [TC- O(n), SC- O(1)]</br>
    Q.2 code - [link](https://leetcode.com/problems/assign-cookies/submissions/2038888363)  [TC- O(nlogn+mlogm), SC- O(1)]</br>
+
+## Day-5
+
+1. Leetcode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/2040054723)  [TC- O(n), SC- O(1)]</br>
+   Q.2 code - [link](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/2040098156)  [TC- O(n), SC- O(1)]</br>
+   Q.3 code - [link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2040107565)  [TC- O(nlogn), SC- O(n)]</br>
