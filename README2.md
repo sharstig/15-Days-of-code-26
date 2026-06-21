@@ -36,3 +36,12 @@
    Q.1 code - [link](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/2040054723)  [TC- O(n), SC- O(1)]</br>
    Q.2 code - [link](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/2040098156)  [TC- O(n), SC- O(1)]</br>
    Q.3 code - [link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2040107565)  [TC- O(nlogn), SC- O(n)]</br>
+
+## Day-6
+
+1. Studied Fractional Knapsack Algorithm - [link](https://youtu.be/1ibsQrnuEEg?si=t3-KuC5_3YH9fM-9)</br>
+
+2. Leetcode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/non-overlapping-intervals/submissions/2040642181)  [TC- O(nlogn), SC- O(1)]</br>
+   Q.2 code - [link](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2041184740)  [TC- O(nlogn), SC- O(1)]</br>
+
