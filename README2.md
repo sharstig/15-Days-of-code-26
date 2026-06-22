@@ -45,3 +45,11 @@
    Q.1 code - [link](https://leetcode.com/problems/non-overlapping-intervals/submissions/2040642181)  [TC- O(nlogn), SC- O(1)]</br>
    Q.2 code - [link](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2041184740)  [TC- O(nlogn), SC- O(1)]</br>
 
+## Day-7
+
+1. Leetcode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/maximum-number-of-balloons/submissions/2042143512)  [TC- O(n), SC- O(1)]</br>
+   Q.2 code - [link](https://leetcode.com/problems/jump-game/submissions/2042322058)  [TC- O(n), SC- O(1)]</br>
+   Q.3 code - [link](https://leetcode.com/problems/jump-game-ii/submissions/2042338071)  [TC- O(n*n), SC- O(1)]</br>
+
+   
