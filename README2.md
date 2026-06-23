@@ -52,4 +52,9 @@
    Q.2 code - [link](https://leetcode.com/problems/jump-game/submissions/2042322058)  [TC- O(n), SC- O(1)]</br>
    Q.3 code - [link](https://leetcode.com/problems/jump-game-ii/submissions/2042338071)  [TC- O(n*n), SC- O(1)]</br>
 
+## Day-8
+
+1. Studied Bit Manipulation-</br>
+   [link](https://youtu.be/qQd-ViW7bfk?si=VagtZsFbu44hTS_5)</br>
+   [link](https://youtu.be/nttpF8kwgd4?si=Gew-6atWqyZc9FYj)</br>
    
