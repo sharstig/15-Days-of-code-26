@@ -57,4 +57,13 @@
 1. Studied Bit Manipulation-</br>
    [link](https://youtu.be/qQd-ViW7bfk?si=VagtZsFbu44hTS_5)</br>
    [link](https://youtu.be/nttpF8kwgd4?si=Gew-6atWqyZc9FYj)</br>
+
+## Day-9
+
+1. CodeChef Contest Div4 solved 4 questions</br>
+   Q.1 code - [link](https://www.codechef.com/viewsolution/1294552033)</br>
+   Q.2 code - [link](https://www.codechef.com/viewsolution/1294563933)</br>
+   Q.3 code - [link](https://www.codechef.com/viewsolution/1294585078)</br>
+   Q.4 code - [link](https://www.codechef.com/viewsolution/1294607910)</br>
+
    
