@@ -66,4 +66,10 @@
    Q.3 code - [link](https://www.codechef.com/viewsolution/1294585078)</br>
    Q.4 code - [link](https://www.codechef.com/viewsolution/1294607910)</br>
 
-   
+## Day-10
+
+1. Leetcode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/submissions/2045792316)  [TC- O(1), SC- O(1)]</br>
+   Q.2 code - [link](https://leetcode.com/problems/single-number/submissions/2045800143)  [TC- O(n), SC- O(1)]</br>
+   Q.3 code - [link](https://leetcode.com/problems/single-number-ii/submissions/2045892766)  [TC- O(n), SC- O(n)]</br>
+   Q.4 code - [link](https://leetcode.com/problems/single-number-iii/submissions/2045995625)  [TC- O(n), SC- O(n)]</br>
