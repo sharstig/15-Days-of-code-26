@@ -73,3 +73,11 @@
    Q.2 code - [link](https://leetcode.com/problems/single-number/submissions/2045800143)  [TC- O(n), SC- O(1)]</br>
    Q.3 code - [link](https://leetcode.com/problems/single-number-ii/submissions/2045892766)  [TC- O(n), SC- O(n)]</br>
    Q.4 code - [link](https://leetcode.com/problems/single-number-iii/submissions/2045995625)  [TC- O(n), SC- O(n)]</br>
+
+## Day-11
+
+1. CP-31 -</br>
+   Q.1 code - [link](https://codeforces.com/problemset/submission/1862/380203565)</br>
+   Q.2 code - [link](https://codeforces.com/problemset/submission/1858/380217571)</br>
+   Q.3 code - [link](https://codeforces.com/problemset/submission/1857/380218596)</br>
+   Q.4 code - [link](https://codeforces.com/problemset/submission/1853/380236094)</br>
