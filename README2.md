@@ -81,3 +81,14 @@
    Q.2 code - [link](https://codeforces.com/problemset/submission/1858/380217571)</br>
    Q.3 code - [link](https://codeforces.com/problemset/submission/1857/380218596)</br>
    Q.4 code - [link](https://codeforces.com/problemset/submission/1853/380236094)</br>
+
+## Day-12
+
+1. CP-31 -</br>
+   Q.1 code - [link](https://codeforces.com/problemset/submission/1837/380269650)</br>
+   Q.2 code - [link](https://codeforces.com/problemset/submission/1834/380271259)</br>
+   Q.3 code - [link](https://codeforces.com/problemset/submission/1791/380288590)</br>
+   Q.4 code - [link](https://codeforces.com/problemset/submission/1788/380308933)</br>
+   Q.5 code - [link](https://codeforces.com/problemset/submission/1777/380311803)</br>
+   Q.6 code - [link](https://codeforces.com/problemset/submission/1766/380348353)</br>
+   
