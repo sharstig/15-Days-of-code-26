@@ -92,3 +92,11 @@
    Q.5 code - [link](https://codeforces.com/problemset/submission/1777/380311803)</br>
    Q.6 code - [link](https://codeforces.com/problemset/submission/1766/380348353)</br>
    
+## Day-13
+
+1. Studied LinkedList - [link](https://youtu.be/Nq7ok-OyEpg?si=sw0vp3SKXIMvul7-)</br>
+
+2. Leetcode -</br>
+   Q.1 code - [link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2054858112)  [TC- O(n), SC- O(1)]</br>
+   Q.2 code - [link](https://leetcode.com/problems/merge-intervals/submissions/2054904069)  [TC- O(n*n), SC- O(1)]</br>
+   
