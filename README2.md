@@ -100,3 +100,11 @@
    Q.1 code - [link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2054858112)  [TC- O(n), SC- O(1)]</br>
    Q.2 code - [link](https://leetcode.com/problems/merge-intervals/submissions/2054904069)  [TC- O(n*n), SC- O(1)]</br>
    
+## Day-14
+
+1. Studied</br>
+   Deletion & Insertion in LL - [link](https://youtu.be/VaECK03Dz-g?si=7SxHcg9sHK7Zx3Am)</br>
+   Doubly LinkedList - [link](https://youtu.be/0eKMU10uEDI?si=3gO4EyjPn1-4OAbU)</br>
+
+2. Codeforces -</br>
+   Q.1 code - [link](https://codeforces.com/contest/2241/submission/381251598)</br>
